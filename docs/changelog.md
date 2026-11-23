@@ -1,6 +1,14 @@
 # Release Notes
 ---
 
+## [1.29.1](https://github.com/sciops-org/makim/compare/1.29.0...1.29.1) (2026-11-23)
+
+
+### Bug Fixes
+
+* add missing click dependency to pyproject.toml ([#241](https://github.com/sciops-org/makim/issues/241)) ([ea731cd](https://github.com/sciops-org/makim/commit/ea731cd822b185ab5e2a0829fa9470a1f884f495))
+* allow version command without config ([#239](https://github.com/sciops-org/makim/issues/239)) ([5ae283a](https://github.com/sciops-org/makim/commit/5ae283adf9e916f62e93ea972030f1b78098e84d))
+
 # [1.29.0](https://github.com/makim-org/makim/compare/1.28.0...1.29.0) (2026-02-10)
 
 
